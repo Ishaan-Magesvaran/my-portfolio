@@ -1,0 +1,11 @@
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-image: url('../img/WhatsApp Image 2025-06-10 at 09.51.48_1e65c69e.jpg');
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border: 3px solid #fff;
+}
