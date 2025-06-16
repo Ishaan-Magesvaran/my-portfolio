@@ -3,9 +3,9 @@
   height: 120px;
   border-radius: 50%;
   overflow: hidden;
-  background-image: url('../img/WhatsApp Image 2025-06-10 at 09.51.48_1e65c69e.jpg');
+  background-image: url('../img/WhatsApp\ Image\ 2025-06-16\ at\ 15.20.00_f24e2b92.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: 50% 35%; /* Adjust vertical centering */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   border: 3px solid #fff;
 }
